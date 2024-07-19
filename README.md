@@ -1,1 +1,1 @@
-# telerymodule_weather
+# Модуль weather для юзербота Telery.
